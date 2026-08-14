@@ -1,0 +1,4 @@
+interface:
+  display_name: "Anti-Slop Writing"
+  short_description: "Rewrite drafts into specific, natural, human-sounding prose"
+  default_prompt: "Use $anti-ai-slop-writing to draft or revise this text so it sounds specific, natural, and unmistakably human."
